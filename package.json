@@ -1,0 +1,21 @@
+{
+  "name": "flashbots-rescue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rescue.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ethereumjs/rlp": "^5.0.2",
+    "@flashbots/ethers-provider-bundle": "^1.0.0",
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "alchemy-sdk": "^3.3.1",
+    "hardhat": "^2.17.3",
+    "rlp": "^3.0.0",
+    "websocket": "^1.0.35"
+  }
+}
